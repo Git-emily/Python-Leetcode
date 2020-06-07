@@ -1,0 +1,44 @@
+{
+  "response": {
+    "count": "2",
+    "iostock_price_num": "19900.000",
+    "unit_cost_num": "0.000",
+    "lists":
+    [
+      {
+        "iostock_id": "1441088465042587",
+        "iostock_bn": "I20150901000001",
+        "branch_bn": "xck0101",
+        "branch_name": "新仓库测试",
+        "bn": "h002",
+        "name": "仙剑奇侠传6",
+        "barcode": "h002",
+        "nums": "100",
+        "type": "采购入库",
+        "iostock_time": "2015-09-01 06:21:05",
+        "memo": "",
+        "original_bn": "I20150901000001",
+        "iostock_price": "50.000",
+        "unit_cost": "0.000",
+        "appropriation_no": "e201512181125204"
+      },
+      {
+        "iostock_id": "1441088481252587",
+        "iostock_bn": "I20150901000002",
+        "branch_bn": "xck0101",
+        "branch_name": "新仓库测试",
+        "bn": "h003",
+        "name": "仙剑玩偶",
+        "barcode": "h003",
+        "nums": "40",
+        "type": "采购入库",
+        "iostock_time": "2015-09-01 06:21:21",
+        "memo": "",
+        "original_bn": "I20150901000002",
+        "iostock_price": "10.000",
+        "unit_cost": "0.000",
+        "appropriation_no": "S201512181125204"
+      }
+    ]
+  }
+}

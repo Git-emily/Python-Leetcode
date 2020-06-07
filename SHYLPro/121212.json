@@ -1,0 +1,31 @@
+{
+  "node": "a",
+  "subNodes": [
+    {
+      "node": "a1",
+      "subNodes": [
+        {
+          "node": "a11",
+          "subNodes": [
+            {
+              "node": "a111",
+              "subNodes": []
+            },
+            {
+              "node": "a112",
+              "subNodes": []
+            }
+          ]
+        },
+        {
+          "node": "a12",
+          "subNodes": []
+        }
+      ]
+    },
+    {
+      "node": "a2",
+      "subNodes": []
+    }
+  ]
+}

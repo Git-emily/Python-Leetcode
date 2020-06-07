@@ -1,0 +1,64 @@
+{
+  "response": {
+    "count": "6337",
+    "lists": {
+      "1355932064461265": {
+        "shop_code": "shopex",
+        "shop_name": "shopex",
+        "order_no": "194276753441633",
+        "member_name": "danny",
+        "sale_no": "S20121219000001",
+        "pay_method": "\u652f\u4ed8\u5b9d\uff08\u793a\u8303\uff09",
+        "sale_time": "2012-12-08 18:50:30",
+        "order_create_time": "2012-12-08 18:50:30",
+        "pay_time": "2012-12-08 18:50:30",
+        "ship_time": "2012-12-08 18:50:30",
+        "order_check_op": "admin",
+        "order_check_time": "2012-12-08 18:50:30",
+        "goods_amount": "163.000",
+        "freight_amount": "0.000",
+        "additional_amount": "0.000",
+        "has_tax": "\u5426",
+        "pmt_amount": "0.000",
+        "sale_amount": "163.000",
+        "logi_name": "\u5706\u901a\u901f\u9012",
+        "logi_no": "7104892994",
+        "branch_name": "\u5c0f\u732a\u73ed\u7eb3",
+        "delivery_no": "1211101100004",
+        "consignee": "\u97e9\u7389\u5143",
+        "consignee_area": "\u6e56\u5317-\u8346\u5dde\u5e02-\u6c99\u5e02\u533a",
+        "consignee_addr": "\u6e56\u5317\u7701 \u8346\u5dde\u5e02 \u6c99\u5e02\u533a \u6e56\u5317\u7701\u8346\u5dde\u5e02\u6c99\u5e02\u533a\u592a\u5cb3\u8def21\u53f7\u8346\u5dde\u79fb\u52a8\u516c\u53f8",
+        "consignee_zip": "200233",
+        "consignee_tel": "51086858",
+        "consignee_mobile": "",
+        "consignee_email": "",
+        "sale_items": {
+          "1": {
+            "bn": "1114451251402160",
+            "name": "C\u7ae5\u9ad8\u9886\u957f\u8896\u6bdb\u886b",
+            "spec_name": "",
+            "price": "63.000",
+            "nums": "1",
+            "pmt_price": "0.000",
+            "sale_price": "63.000",
+            "apportion_pmt": "0.000",
+            "sales_amount": "63.000",
+            "item_type": "product"
+          },
+          "2": {
+            "bn": "1114704655401150",
+            "name": "C\u7ae5\u68c9\u8863",
+            "spec_name": "",
+            "price": "100.000",
+            "nums": "1",
+            "pmt_price": "0.000",
+            "sale_price": "100.000",
+            "apportion_pmt": "0.000",
+            "sales_amount": "100.000",
+            "item_type": "pkg"
+          }
+        }
+      }
+    }
+  }
+}
